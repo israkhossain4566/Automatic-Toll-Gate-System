@@ -46,9 +46,3 @@ If the balance on the card is insufficient, an option is available to recharge t
 - After the toll fee is paid:
   - The second IR obstacle sensor detects the vehicle.
   - The toll gate opens to allow the vehicle to pass.
-
-
-## Image
-Below is the Image for the Automatic Toll Gate System:
-
-![image of the system](image of the system.jpg)
