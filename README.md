@@ -51,4 +51,4 @@ If the balance on the card is insufficient, an option is available to recharge t
 ## Image
 Below is the Image for the Automatic Toll Gate System:
 
-![Image](image of the system.jpg)
+![image of the system](image of the system.jpg)
